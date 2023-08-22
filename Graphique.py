@@ -6,6 +6,7 @@ import time
 fenetre = Tk()
 fenetre.title("Pierre Feuille Ciseaux")
 fenetre.minsize(450,400)
+fenetre.maxsize(450,400)
 
 #random
 list = ["choixciseaux","choixfeuille","choixpierre"]
